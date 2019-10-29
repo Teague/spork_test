@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <origin/>
+                <pubdate>20171129</pubdate>
+                <title>Thurston_VotersPrecincts</title>
+                <onlink>https://map.co.thurston.wa.us/arcgis/rest/services/Thurston/Thurston_VoterPrecincts/FeatureServer</onlink>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>To provide the county with up to date political boundaries at the local level.   Area polygons are identified with the Precinct Name, Number and the designated commissioner, legislative, congressional area number. Last updated on 27 APRIL 2017 by KLB.</abstract>
+            <purpose>Thurston County voting precinct boundaries; congressional districts; commissioner districts; and legislative district information is given in this layer.</purpose>
+        </descript>
+        <timeperd>
+            <timeinfo>
+                <sngdate>
+                    <caldate>20160817</caldate>
+                </sngdate>
+            </timeinfo>
+            <current>Layer gets updated as boundaries change.</current>
+        </timeperd>
+        <status>
+            <progress>In work</progress>
+            <update>Continually</update>
+        </status>
+        <spdom>
+            <bounding>
+                <westbc>-123.234</westbc>
+                <eastbc>-122.4402</eastbc>
+                <northbc>47.2427</northbc>
+                <southbc>46.7858</southbc>
+            </bounding>
+        </spdom>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>voting</themekey>
+                <themekey>congressional</themekey>
+                <themekey>Olympia</themekey>
+                <themekey>senate</themekey>
+                <themekey>boundaries</themekey>
+                <themekey>congress</themekey>
+                <themekey>legislative</themekey>
+                <themekey>legislators</themekey>
+                <themekey>house</themekey>
+                <themekey>Washington</themekey>
+                <themekey>precincts</themekey>
+                <themekey>political</themekey>
+                <themekey>politics</themekey>
+                <themekey>Northwest</themekey>
+                <themekey>commissioners</themekey>
+                <themekey>government</themekey>
+                <themekey>United States</themekey>
+                <themekey>Thurston County</themekey>
+                <themekey>base</themekey>
+                <themekey>base data</themekey>
+                <themekey>base data disc</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>By accessing any Data or Maps (&amp;quot;Data&amp;quot;) posted by Thurston County, you agree to these Terms of Use (&amp;quot;Terms&amp;quot;).  These terms may be updated or modified by Thurston County at any time at its sole discretion.  If you do not agree to these Terms, do not access the Data or download any material from it.Thurston County grants you a limited, revocable license to use, reproduce and redistribute the Data in accordance with these Terms.The Data is collected from various sources and will change over time and without notice.  The geographic position of the GIS data may be modified to improve spatial accuracies.  Thurston County disclaims responsibility or legal liability for the spatial location of GIS features, and makes no warranty concerning same.  It is highly suggested you refresh your copy of the Data at least annually.The Data is provided to you on an &amp;quot;AS IS&amp;quot; and &amp;quot;AS AVAILABLE&amp;quot; and &amp;quot;WITH ALL FAULTS&amp;quot; basis without any warranty of any kind, express or implied, including without limitation the implied warranties of merchantability, fitness for a particular purpose, accuracy and non-infringement, nor shall the distribution of this information constitute any warranty.The Data is not intended to constitute advice nor is it to be used as a substitute for specific advice from a professional.  You should not act (or refrain from acting) based upon information in the Data without independently verifying the information and, as necessary, obtaining professional advice regarding your particular facts and circumstances.  Thurston County data is developed and maintained solely for County business functions.  GIS data is not intended for use in other contexts by third parties and should not be used as a substitute for a product specially developed by a licensed professional.You use the Data at your own risk, and you assume the risk that the Data may provide incorrect information to you, as well as the risk that any material downloaded by you may cause loss of data or damage to your computer system.  Thurston County disclaims any responsibility or liability to users (or transferees or vendees of users) for damages of any kind, including lost profits, lost savings or any other incidental or consequential damages relating to the providing of the Data or the use of it.Thurston County and its officials and employees assume no responsibility or legal liability for the accuracy, completeness, reliability, timeliness, or usefulness of any information available from the Data nor do they represent that the use of any information will not infringe privately owned rights.  Users are solely responsible for ensuring the accuracy, currency and other qualities of users' products (including maps, reports, displays and analysis) produced from, or in connection with, the Thurston County Data.Thurston County reserves the right at any time to modify or discontinue access to the Data (or any part thereof), temporarily or permanently, with or without notice to you.  You agree that Thurston County will not be liable to you for any modification, suspension, or discontinuation of access to the Data.  Thurston County expressly disclaims any responsibility to defend or indemnify users against claims of others based on users' copying, distribution, or any other use of the Data.  Users are not authorized to license, re-license, assign, release publish, transfer, sell or otherwise make available any portion of these Data, or any information from GIS data derived from these Datasets, to a third party in any format revealing Thurston County as the source of the data.Thurston County cannot prevent users from combining the Data with 3rd party GIS data sets.  Users are not authorized by Thurston County to combine data sets with intent or effect of representing a County business function such as land development, permitting, or flood hazard evaluation.  When using the Data, a user has no authority to represent its products or services as though user were a Thurston County agent or office.RCW 42.56.070(9) prohibits the release of lists of individuals for commercial purposes.  &amp;quot;Commercial purposes&amp;quot; means contacting or in some way personally affecting the individuals identified on the list with the purpose of facilitating one's commercial activities.  Specifically, the Data may not be used to generate sales lead information in the form of ASCII or other text-formatted list of category-specific business listing or property owners which (i) include complete mailing address for each and (ii) contain a substantial portion of such listing for a particular county, city, state, or zip code region.Data can be plotted or represented at various scales other than the original source of the data.  Users should consider industry standard mapping practices, which specify that data utilized in a map or analysis, separately or in combination with other data, will be produced at the smallest scale common to all data sets.  For example:  if the zoning data scale is 1&amp;quot;=200' and the city boundary data set is 1&amp;quot;=2000', all Data should be used at a scale of 1&amp;quot;=2000' or smaller.The invalidity of any term or provision of these Terms will not affect the validity of any other provision.  Waiver by Thurston County of strict performances of any provision of these Terms will not be waiver of or prejudice Thurston County's right to require strict performance of the same provision in the future or of any other provision of these Terms.These Terms constitute the entire agreement between the parties as to their subject matter, and there exists no other additional or conflicting terms, conditions or obligations between the parties relating to the use of the Data.  By downloading this data the user agrees to the Thurston County GeoData Download Portal Terms of Use and want to access the Data.</useconst>
+        <ptcontac>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>Thurston County GeoData Center</cntorg>
+                </cntorgp>
+                <cntaddr>
+                    <addrtype>mailing</addrtype>
+                    <address>2000 Lakeridge Drive SW</address>
+                    <city>Olympia</city>
+                    <state>WA</state>
+                    <postal>98502</postal>
+                    <country>US</country>
+                </cntaddr>
+                <cntvoice>360-754-4594</cntvoice>
+                <cntemail>geodata@co.thurston.wa.us</cntemail>
+                <hours>Monday - Friday 9:00 am to 1:00 pm (PST)</hours>
+            </cntinfo>
+        </ptcontac>
+        <datacred>The voters precinct layer updates are provided by the Elections division of the Auditor's Department.    This layer is up to date with the latest changes.  If you have further questions please contact the Thurston County Elections Office.</datacred>
+    </idinfo>
+    <metainfo>
+        <metd>20171129</metd>
+        <metc>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>Thurston GeoData Center</cntorg>
+                </cntorgp>
+                <cntaddr>
+                    <addrtype>physical</addrtype>
+                    <address>929 Lakeridge Drive SW, Suite 216</address>
+                    <city>Olympia</city>
+                    <state>WA</state>
+                    <postal>98502</postal>
+                    <country>US</country>
+                </cntaddr>
+                <cntvoice>(360) 754-4594</cntvoice>
+                <cntemail>geodata@co.thurston.wa.us</cntemail>
+                <hours>Monday - Friday 9:00 am to 1:00 pm (PST)</hours>
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+        <metuc>By accessing any Data or Maps("Data") posted by Thurston County, you agree to these Terms of Use ("Terms"). These terms may be updated or modified by Thurston County at any time at its sole discretion. If you do not agree to these Terms, do not access the Data or download any material from it. Thurston County grants you a limited, revocable license to use, reproduce and redistribute the Data in accordance with these Terms. The Data is collected from various sources and will change over time and without notice. The geographic position of the GIS data may be modified to improve spatial accuracies. Thurston County disclaims responsibility or legal liability for the spatial location of GIS features, and makes no warranty concerning same. It is highly suggested you refresh your copy of the Data at least annually. The Data is provided to you on an "AS IS" and "AS AVAILABLE" and "WITH ALL FAULTS" basis without any warranty of any kind, express or implied, including without limitation the implied warranties of merchantability, fitness for a particular purpose, accuracy and non-infringement, nor shall the distribution of this information constitute any warranty. The Data is not intended to constitute advice nor is it to be used as a substitute for specific advice from a professional. You should not act (or refrain from acting) based upon information in the Data without independently verifying the information and, as necessary, obtaining professional advice regarding your particular facts and circumstances. Thurston County data is developed and maintained solely for County business functions. GIS data is not intended for use in other contexts by third parties and should not be used as a substitute for a product specially developed by a licensed professional. You use the Data at your own risk, and you assume the risk that the Data may provide incorrect information to you, as well as the risk that any material downloaded by you may cause loss of data or damage to your computer system. Thurston County disclaims any responsibility or liability to users (or transferees or vendees of users) for damages of any kind, including lost profits, lost savings or any other incidental or consequential damages relating to the providing of the Data or the use of it. Thurston County and its officials and employees assume no responsibility or legal liability for the accuracy, completeness, reliability, timeliness, or usefulness of any information available from the Data nor do they represent that the use of any information will not infringe privately owned rights. Users are solely responsible for ensuring the accuracy, currency and other qualities of users' products (including maps, reports, displays and analysis) produced from, or in connection with, the Thurston County Data. Thurston County reserves the right at any time to modify or discontinue access to the Data(or any part thereof), temporarily or permanently, with or without notice to you. You agree that Thurston County will not be liable to you for any modification, suspension, or discontinuation of access to the Data. Thurston County expressly disclaims any responsibility to defend or indemnify users against claims of others based on users' copying, distribution, or any other use of the Data. Users are not authorized to license, re-license, assign, release publish, transfer, sell or otherwise make available any portion of these Data, or any information from GIS data derived from these Datasets, to a third party in any format revealing Thurston County as the source of the data. Thurston County cannot prevent users from combining the Data with 3rd party GIS data sets. Users are not authorized by Thurston County to combine data sets with intent or effect of representing a County business function such as land development, permitting, or flood hazard evaluation. When using the Data, a user has no authority to represent its products or services as though user were a Thurston County agent or office. RCW 42.56.070(9) prohibits the release of lists of individuals for commercial purposes. "Commercial purposes" means contacting or in some way personally affecting the individuals identified on the list with the purpose of facilitating one's commercial activities. Specifically, the Data may not be used to generate sales lead information in the form of ASCII or other text-formatted list of category-specific business listing or property owners which (i) include complete mailing address for each and (ii) contain a substantial portion of such listing for a particular county, city, state, or zip code region. Data can be plotted or represented at various scales other than the original source of the data. Users should consider industry standard mapping practices, which specify that data utilized in a map or analysis, separately or in combination with other data, will be produced at the smallest scale common to all data sets. For example: if the zoning data scale is 1"=200' and the city boundary data set is 1"=2000', all Data should be used at a scale of 1"=2000' or smaller. The invalidity of any term or provision of these Terms will not affect the validity of any other provision. Waiver by Thurston County of strict performances of any provision of these Terms will not be waiver of or prejudice Thurston County's right to require strict performance of the same provision in the future or of any other provision of these Terms. These Terms constitute the entire agreement between the parties as to their subject matter, and there exists no other additional or conflicting terms, conditions or obligations between the parties relating to the use of the Data. By downloading this data the user agrees to the Thurston County GeoData Download Portal Terms of Use and want to access the Data.</metuc>
+    </metainfo>
+</metadata>
